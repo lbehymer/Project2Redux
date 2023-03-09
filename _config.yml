@@ -22,8 +22,8 @@ title: Project 2
 email: labehymer@ualr.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Project 2: Using Markdown and Jekyll to generate a static website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "Project2Redux" # the subpath of your site, e.g. /blog
+url: "https://github.com/lbehymer/Project2Redux.git" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  lbehymer
 
